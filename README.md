@@ -1,4 +1,4 @@
-# Register as a warden
+# Register as a warden 
 
 Registering as a warden allows you to be listed on our [leaderboard](https://code423n4.com/leaderboard). You'll need to register your handle in order to submit a bug for a contest.
 
